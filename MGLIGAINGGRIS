@@ -26,9 +26,14 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/FjKJyFG.jpeg" group-title="BOLA | LIGA INGGRIS",LIVE 4 USA Network 
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/FjKJyFG.jpeg" group-title="BOLA | LIGA INGGRIS",LIVE 4 USA Network 1
 ##https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YWM5OGZjM2FkNDI1LTc2MzgtMjMwNC00OTUyLWRmZGVhYzlh/master.m3u8|referer=https://www.vidembed.re/
 https://nfsnew.newkso.ru/nfs/premium343/mono.m3u8|referer=https://webxzplay.cfd/
+
+#EXTINF:-1 tvg-id="usa-network-east-feed" tvg-name="USA Network East Feed SD" tvg-logo="https://i.imgur.com/FjKJyFG.jpeg" group-title="BOLA | LIGA INGGRIS",LIVE 4 USA Network 2
+https://tvpass.org/live/USANetworkEast/sd
+#EXTINF:-1 tvg-id="usa-network-east-feed" tvg-name="USA Network East Feed HD" tvg-logo="https://i.imgur.com/FjKJyFG.jpeg" group-title="BOLA | LIGA INGGRIS",LIVE 4 USA Network 3
+https://tvpass.org/live/USANetworkEast/hd
 
 #EXTINF:-1 tvg-id="NBCSportsBoston.us" tvg-name="" tvg-logo="https://i.imgur.com/FjKJyFG.jpeg" group-title="BOLA | LIGA INGGRIS ",LIVE 5  NBC SPORTS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -53,7 +58,28 @@ https://sweet-night-1d1d.worst.workers.dev/?id=9182&type=dash
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9183&type=dash
 https://sweet-night-1d1d.worst.workers.dev/?id=9183&type=dash
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="starspselect1.mv" tvg-name="Star Sports Select 1 HD" tvg-logo="https://i.imgur.com/FjKJyFG.jpeg" group-title="BOLA | LIGA INGGRIS",LIVE 8 Star Sports Select 1 HD
+https://maldivesn.net/hilaytv/starsportsselect1
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="starspselect2.mv" tvg-name="Star Sports Select 2 HD" tvg-logo="https://i.imgur.com/FjKJyFG.jpeg" group-title="BOLA | LIGA INGGRIS",LIVE 9 Star Sports Select 2 HD
+https://maldivesn.net/hilaytv/starsportsselect2
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/FjKJyFG.jpeg" group-title="BOLA | LIGA INGGRIS",LIVE 10  ASTRO PREMIER LEAGUE 2
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+https://wahyu1ptv.pages.dev/AstroPremierLeague2-HD.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/FjKJyFG.jpeg" group-title=""BOLA | LIGA INGGRIS",LIVE 11 HUB PREMIER 1
+http://mag.redmytv.com/bO3trtivgYaMDwr/l4ptb6R31K/1289436
+
+
+
+
+#EXTINF:-1 tvg-id="telemundo-eastern-feed" tvg-name="Telemundo Eastern Feed SD" tvg-logo="https://i.imgur.com/FjKJyFG.jpeg" group-title=""BOLA | LIGA INGGRIS",Telemundo Eastern Feed SD
+https://tvpass.org/live/TelemundoEast/sd
+#EXTINF:-1 tvg-id="telemundo-eastern-feed" tvg-name="Telemundo Eastern Feed HD" tvg-logo="https://i.imgur.com/FjKJyFG.jpeg" group-title=""BOLA | LIGA INGGRIS",Telemundo Eastern Feed HD
+https://tvpass.org/live/TelemundoEast/hd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS",ArenaPremium1
 https://wahyu1ptv.pages.dev/ArenaPremium1-HD.m3u8
@@ -72,3 +98,38 @@ https://wahyu1ptv.pages.dev/ElevenSports2-HD.m3u8
 
 #EXTINF:-1 tvg-id="ElevenSport3" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS",ElevenSport3
 https://wahyu1ptv.pages.dev/ElevenSports3-HD.m3u8
+
+#EXTINF:-1 tvg-id="nbc-sports-bay-area" tvg-name="NBC Sports Bay Area SD" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS",NBC Sports Bay Area SD
+https://tvpass.org/live/nbc-sports-bay-area/sd
+#EXTINF:-1 tvg-id="nbc-sports-bay-area" tvg-name="NBC Sports Bay Area HD" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS",NBC Sports Bay Area HD
+https://tvpass.org/live/nbc-sports-bay-area/hd
+#EXTINF:-1 tvg-id="nbc-sports-boston" tvg-name="NBC Sports Boston SD"  tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS",NBC Sports Boston SD
+https://tvpass.org/live/nbc-sports-boston/sd
+#EXTINF:-1 tvg-id="nbc-sports-boston" tvg-name="NBC Sports Boston HD" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS",NBC Sports Boston HD
+https://tvpass.org/live/nbc-sports-boston/hd
+#EXTINF:-1 tvg-id="nbc-sports-california" tvg-name="NBC Sports California SD" group-title="BOLA | LIGA INGGRIS",NBC Sports California SD
+https://tvpass.org/live/nbc-sports-california/sd
+#EXTINF:-1 tvg-id="nbc-sports-california" tvg-name="NBC Sports California HD" group-title="Live",NBC Sports California HD
+https://tvpass.org/live/nbc-sports-california/hd
+#EXTINF:-1 tvg-id="nbc-sports-philadelphia" tvg-name="NBC Sports Philadelphia SD" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="Live",NBC Sports Philadelphia SD
+https://tvpass.org/live/nbc-sports-philadelphia/sd
+#EXTINF:-1 tvg-id="nbc-sports-philadelphia" tvg-name="NBC Sports Philadelphia HD" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="Live",NBC Sports Philadelphia HD
+https://tvpass.org/live/nbc-sports-philadelphia/hd
+
+#EXTINF:-1 tvg-id="espn-u" tvg-name="ESPN U SD" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="Live",ESPN U SD
+https://tvpass.org/live/ESPNU/sd
+#EXTINF:-1 tvg-id="espn-u" tvg-name="ESPN U HD" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="Live",ESPN U HD
+https://tvpass.org/live/ESPNU/hd
+#EXTINF:-1 tvg-id="espn2" tvg-name="ESPN2 SD" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="Live",ESPN2 SD
+https://tvpass.org/live/ESPN2/sd
+#EXTINF:-1 tvg-id="espn2" tvg-name="ESPN2 HD" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="Live",ESPN2 HD
+https://tvpass.org/live/ESPN2/hd
+
+#EXTINF:-1 tvg-id="espn" tvg-name="ESPN SD" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="Live",ESPN SD
+https://tvpass.org/live/ESPN/sd
+#EXTINF:-1 tvg-id="espn" tvg-name="ESPN HD" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="Live",ESPN HD
+https://tvpass.org/live/ESPN/hd
+#EXTINF:-1 tvg-id="espn-deportes" tvg-name="ESPN Deportes SD" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="Live",ESPN Deportes SD
+https://tvpass.org/live/espn-deportes/sd
+#EXTINF:-1 tvg-id="espn-deportes" tvg-name="ESPN Deportes HD" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="Live",ESPN Deportes HD
+https://tvpass.org/live/espn-deportes/hd
